@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
 namespace Costco
 {
@@ -25,6 +26,7 @@ namespace Costco
         private void Form1_Load(object sender, EventArgs e)
         {
             alertlabel.Hide();
+            forgotlabel.Hide();
             usertextBox.Text = "Enter your Username";
             usertextBox.ForeColor = System.Drawing.Color.Gray;
 
@@ -81,6 +83,7 @@ namespace Costco
                 if (!check)
                 {
                     MainDashboard mainDashboard = new MainDashboard();
+                    mainDashboard.username = usertextBox.Text;
                      mainDashboard.Show();
                       this.Hide();
                     
@@ -89,6 +92,7 @@ namespace Costco
                 {
                     alertlabel.Text = "Invalid Username";
                     alertlabel.Show();
+                    forgotlabel.Show();
                     usertextBox.Text = "Enter your Username";
                     usertextBox.ForeColor = System.Drawing.Color.Gray;
                     passtextBox.Text = "Enter your Password";
@@ -117,6 +121,21 @@ namespace Costco
                 return false;
             }
             return true;
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            Form1 form = new Form1();
+            using (form)
+            {
+                form.forgot = "outerpass";
+                form.ShowDialog();
+                if(form.DialogResult == DialogResult.OK)
+                {
+                    alertlabel.Hide();
+                    forgotlabel.Hide();
+                }
+            }
         }
     }
 }

@@ -40,6 +40,7 @@
             this.panel5 = new System.Windows.Forms.Panel();
             this.button2 = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.forgotlabel = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -155,6 +156,17 @@
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
+            // forgotlabel
+            // 
+            this.forgotlabel.AutoSize = true;
+            this.forgotlabel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.forgotlabel.Location = new System.Drawing.Point(524, 255);
+            this.forgotlabel.Name = "forgotlabel";
+            this.forgotlabel.Size = new System.Drawing.Size(119, 16);
+            this.forgotlabel.TabIndex = 19;
+            this.forgotlabel.Text = "Forgot Password ?";
+            this.forgotlabel.Click += new System.EventHandler(this.label1_Click);
+            // 
             // Costco_Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(120F, 120F);
@@ -165,6 +177,7 @@
             this.Controls.Add(this.panel4);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
+            this.Controls.Add(this.forgotlabel);
             this.Controls.Add(this.alertlabel);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
@@ -197,5 +210,6 @@
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Panel panel4;
         private System.Windows.Forms.Panel panel5;
+        private System.Windows.Forms.Label forgotlabel;
     }
 }

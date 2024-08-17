@@ -83,6 +83,7 @@
             this.panel6 = new System.Windows.Forms.Panel();
             this.label17 = new System.Windows.Forms.Label();
             this.panel7 = new System.Windows.Forms.Panel();
+            this.toolStripSeparator6 = new System.Windows.Forms.ToolStripSeparator();
             this.ClearCartButton = new System.Windows.Forms.Button();
             this.PrintButton = new System.Windows.Forms.Button();
             this.PreviewButton = new System.Windows.Forms.Button();
@@ -96,6 +97,7 @@
             this.toolStripButton4 = new System.Windows.Forms.ToolStripButton();
             this.toolStripButton5 = new System.Windows.Forms.ToolStripButton();
             this.Settings = new System.Windows.Forms.ToolStripButton();
+            this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
             this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
@@ -179,7 +181,9 @@
             this.toolStripSeparator4,
             this.toolStripButton5,
             this.toolStripSeparator5,
-            this.Settings});
+            this.Settings,
+            this.toolStripSeparator6,
+            this.toolStripButton1});
             this.toolStrip1.Location = new System.Drawing.Point(5, 60);
             this.toolStrip1.Name = "toolStrip1";
             this.toolStrip1.Size = new System.Drawing.Size(1700, 81);
@@ -774,6 +778,11 @@
             this.panel7.Size = new System.Drawing.Size(751, 15);
             this.panel7.TabIndex = 26;
             // 
+            // toolStripSeparator6
+            // 
+            this.toolStripSeparator6.Name = "toolStripSeparator6";
+            this.toolStripSeparator6.Size = new System.Drawing.Size(6, 81);
+            // 
             // ClearCartButton
             // 
             this.ClearCartButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
@@ -959,8 +968,8 @@
             this.toolStripButton5.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.toolStripButton5.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButton5.Name = "toolStripButton5";
-            this.toolStripButton5.Size = new System.Drawing.Size(80, 78);
-            this.toolStripButton5.Text = "  Reports  ";
+            this.toolStripButton5.Size = new System.Drawing.Size(86, 78);
+            this.toolStripButton5.Text = "   Returns   ";
             this.toolStripButton5.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.toolStripButton5.Click += new System.EventHandler(this.toolStripButton5_Click);
             // 
@@ -974,6 +983,17 @@
             this.Settings.Text = "  Employees";
             this.Settings.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.Settings.Click += new System.EventHandler(this.Settings_Click);
+            // 
+            // toolStripButton1
+            // 
+            this.toolStripButton1.Image = global::Costco.Properties.Resources.configure;
+            this.toolStripButton1.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
+            this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton1.Name = "toolStripButton1";
+            this.toolStripButton1.Size = new System.Drawing.Size(82, 78);
+            this.toolStripButton1.Text = "  Settings  ";
+            this.toolStripButton1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.toolStripButton1.Click += new System.EventHandler(this.toolStripButton1_Click);
             // 
             // button3
             // 
@@ -1152,6 +1172,8 @@
         private System.Windows.Forms.Label label17;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.ToolStripButton toolStripButton1;
+        private System.Windows.Forms.ToolStripSeparator toolStripSeparator6;
     }
 }
 

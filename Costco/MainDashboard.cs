@@ -23,6 +23,7 @@ namespace Costco
         List<products> shoppingCart = new List<products>();
         bool checkout_bool = false;
         Rectangle _normalWindowBounds;
+        public string username { get; set; }
         bool _isMaximized = true;
         protected override void OnResize(EventArgs e)
         {
@@ -701,6 +702,16 @@ namespace Costco
             {
 
                 form1.ShowDialog();
+            }
+        }
+
+        private void toolStripButton1_Click(object sender, EventArgs e)
+        {
+            Form1 form = new Form1();
+            using (form)
+            {
+                form.user = username;
+                form.ShowDialog();
             }
         }
     }

@@ -523,6 +523,43 @@ namespace Costco
             }
 
         }
+        public bool check_change_pass(string username, string password)
+        {
+            bool check;
+            SqlConnection conn = new SqlConnection(constr);
+            using (conn)
+            {
+                SqlCommand cmd = new SqlCommand("usp_costco_check_pass", conn);
+                cmd.CommandType = CommandType.StoredProcedure;
+                conn.Open();
+                cmd.Parameters.AddWithValue("@user", username);
+                cmd.Parameters.AddWithValue("@pass", password);
+                check = Convert.ToBoolean(cmd.ExecuteScalar());
+                if (check == false)
+                {
+                    return false;
+                }
+                else
+                {
+                    return true;
+                }
+            }
+
+        }
+        public void change_old_pass(string user, string oldpass, string newpass)
+        {
+            SqlConnection conn = new SqlConnection(constr);
+            using (conn)
+            {
+                SqlCommand cmd = new SqlCommand("usp_change_pass", conn);
+                cmd.CommandType = CommandType.StoredProcedure;
+                conn.Open();
+                cmd.Parameters.AddWithValue("@user", user);
+                cmd.Parameters.AddWithValue("@oldpass", oldpass);
+                cmd.Parameters.AddWithValue("@newpass", newpass);
+                cmd.ExecuteNonQuery();
+            }
+        }
 
 
     }
