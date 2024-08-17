@@ -47,10 +47,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="change_pass.cs">
+    <Compile Include="Form_Folder\change_pass.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include=".Designer.cs">
+    <Compile Include="Form_Folder\.Designer.cs">
       <DependentUpon>change_pass.cs</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
@@ -160,7 +160,7 @@
     <Compile Include="UserControl1.Designer.cs">
       <DependentUpon>UserControl1.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="change_pass.resx">
+    <EmbeddedResource Include="Form_Folder\change_pass.resx">
       <DependentUpon>change_pass.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form_Folder\Add_Employee.resx">

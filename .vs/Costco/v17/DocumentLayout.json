@@ -1,0 +1,513 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PUCIT\\Costco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\form_folder\\addsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\form_folder\\addsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|d:\\pucit\\costco\\costco\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\form_folder\\change_pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\form_folder\\change_pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\form_folder\\costco_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\form_folder\\costco_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\form_folder\\costco_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\form_folder\\costco_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\data_files\\databasefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\data_files\\databasefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\form_folder\\add_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\form_folder\\add_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\form_folder\\suppliersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\form_folder\\suppliersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\form_folder\\returnqty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\form_folder\\returnqty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\form_folder\\returns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\form_folder\\returns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\form_folder\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\form_folder\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\form_folder\\returnqty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\form_folder\\returnqty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\form_folder\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\form_folder\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\form_folder\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\form_folder\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\form_folder\\employeeimageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\form_folder\\employeeimageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\form_folder\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\form_folder\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\form_folder\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\form_folder\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\form_folder\\updateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\form_folder\\updateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\form_folder\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\form_folder\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\form_folder\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\form_folder\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\form_folder\\returns.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\form_folder\\returns.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\form_folder\\suppliersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\form_folder\\suppliersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\data_files\\returnsproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\data_files\\returnsproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\data_files\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\data_files\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\form_folder\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\form_folder\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\form_folder\\addsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\form_folder\\addsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|D:\\PUCIT\\Costco\\costco\\form_folder\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB76837B-9529-48CA-BA8B-12407D490EB5}|Costco\\Costco.csproj|solutionrelative:costco\\form_folder\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PUCIT\\Semester 4\\Projects\\Costco\\Costco\\change_pass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainDashboard.cs",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\MainDashboard.cs",
+              "RelativeDocumentMoniker": "Costco\\MainDashboard.cs",
+              "ToolTip": "D:\\PUCIT\\Costco\\Costco\\MainDashboard.cs",
+              "RelativeToolTip": "Costco\\MainDashboard.cs",
+              "ViewState": "AQIAALoCAAAAAAAAAAAqwMoCAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:27:08.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "change_pass.cs",
+              "DocumentMoniker": "D:\\PUCIT\\Semester 4\\Projects\\Costco\\Costco\\change_pass.cs",
+              "RelativeDocumentMoniker": "..\\Semester 4\\Projects\\Costco\\Costco\\change_pass.cs",
+              "ToolTip": "D:\\PUCIT\\Semester 4\\Projects\\Costco\\Costco\\change_pass.cs",
+              "RelativeToolTip": "..\\Semester 4\\Projects\\Costco\\Costco\\change_pass.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAhwBwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:35:44.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseFile.cs",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Data_Files\\DatabaseFile.cs",
+              "RelativeDocumentMoniker": "Costco\\Data_Files\\DatabaseFile.cs",
+              "ToolTip": "D:\\PUCIT\\Costco\\Costco\\Data_Files\\DatabaseFile.cs",
+              "RelativeToolTip": "Costco\\Data_Files\\DatabaseFile.cs",
+              "ViewState": "AQIAABwCAAAAAAAAAAAwwCkCAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T23:45:19.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\MainDashboard.cs",
+              "RelativeDocumentMoniker": "Costco\\MainDashboard.cs",
+              "ToolTip": "D:\\PUCIT\\Costco\\Costco\\MainDashboard.cs [Design]",
+              "RelativeToolTip": "Costco\\MainDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T23:50:29.345Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddSupplier.cs [Design]",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\AddSupplier.cs",
+              "RelativeDocumentMoniker": "Costco\\Form_Folder\\AddSupplier.cs",
+              "ToolTip": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\AddSupplier.cs [Design]",
+              "RelativeToolTip": "Costco\\Form_Folder\\AddSupplier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T23:36:44.205Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "change_pass.cs [Design]",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\change_pass.cs",
+              "RelativeDocumentMoniker": "Costco\\Form_Folder\\change_pass.cs",
+              "ToolTip": "D:\\PUCIT\\Semester 4\\Projects\\Costco\\Costco\\Form_Folder\\change_pass.cs [Design]",
+              "RelativeToolTip": "..\\Semester 4\\Projects\\Costco\\Costco\\Form_Folder\\change_pass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:29:32.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Costco_Login.cs",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\Costco_Login.cs",
+              "RelativeDocumentMoniker": "Costco\\Form_Folder\\Costco_Login.cs",
+              "ToolTip": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\Costco_Login.cs",
+              "RelativeToolTip": "Costco\\Form_Folder\\Costco_Login.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAtwIcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T05:22:53.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Costco_Login.cs [Design]",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\Costco_Login.cs",
+              "RelativeDocumentMoniker": "Costco\\Form_Folder\\Costco_Login.cs",
+              "ToolTip": "D:\\PUCIT\\Semester 4\\Projects\\Costco\\Costco\\Form_Folder\\Costco_Login.cs [Design]",
+              "RelativeToolTip": "..\\Semester 4\\Projects\\Costco\\Costco\\Form_Folder\\Costco_Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T05:00:43.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Add_Employee.cs",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\Add_Employee.cs",
+              "RelativeDocumentMoniker": "Costco\\Form_Folder\\Add_Employee.cs",
+              "ToolTip": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\Add_Employee.cs",
+              "RelativeToolTip": "Costco\\Form_Folder\\Add_Employee.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAMwMUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T01:17:06.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SuppliersForm.cs [Design]",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\SuppliersForm.cs",
+              "RelativeDocumentMoniker": "Costco\\Form_Folder\\SuppliersForm.cs",
+              "ToolTip": "D:\\PUCIT\\Semester 4\\Projects\\Costco\\Costco\\Form_Folder\\SuppliersForm.cs [Design]",
+              "RelativeToolTip": "..\\Semester 4\\Projects\\Costco\\Costco\\Form_Folder\\SuppliersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T23:38:41.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "returnqty.cs [Design]",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\returnqty.cs",
+              "RelativeDocumentMoniker": "Costco\\Form_Folder\\returnqty.cs",
+              "ToolTip": "D:\\PUCIT\\Semester 4\\Projects\\Costco\\Costco\\Form_Folder\\returnqty.cs [Design]",
+              "RelativeToolTip": "..\\Semester 4\\Projects\\Costco\\Costco\\Form_Folder\\returnqty.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T10:02:52.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Returns.cs",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\Returns.cs",
+              "RelativeDocumentMoniker": "Costco\\Form_Folder\\Returns.cs",
+              "ToolTip": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\Returns.cs",
+              "RelativeToolTip": "Costco\\Form_Folder\\Returns.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAIwKYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:10:24.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "returnqty.cs",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\returnqty.cs",
+              "RelativeDocumentMoniker": "Costco\\Form_Folder\\returnqty.cs",
+              "ToolTip": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\returnqty.cs",
+              "RelativeToolTip": "Costco\\Form_Folder\\returnqty.cs",
+              "ViewState": "AQIAAN4AAAAAAAAAAAApwOcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T03:58:58.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "addproduct.cs [Design]",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\addproduct.cs",
+              "RelativeDocumentMoniker": "Costco\\Form_Folder\\addproduct.cs",
+              "ToolTip": "D:\\PUCIT\\Semester 4\\Projects\\Costco\\Costco\\Form_Folder\\addproduct.cs [Design]",
+              "RelativeToolTip": "..\\Semester 4\\Projects\\Costco\\Costco\\Form_Folder\\addproduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T23:37:02.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Program.cs",
+              "RelativeDocumentMoniker": "Costco\\Program.cs",
+              "ToolTip": "D:\\PUCIT\\Costco\\Costco\\Program.cs",
+              "RelativeToolTip": "Costco\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T05:26:16.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Inventory.cs [Design]",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\Inventory.cs",
+              "RelativeDocumentMoniker": "Costco\\Form_Folder\\Inventory.cs",
+              "ToolTip": "D:\\PUCIT\\Semester 4\\Projects\\Costco\\Costco\\Form_Folder\\Inventory.cs [Design]",
+              "RelativeToolTip": "..\\Semester 4\\Projects\\Costco\\Costco\\Form_Folder\\Inventory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T23:37:47.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Employees.cs [Design]",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\Employees.cs",
+              "RelativeDocumentMoniker": "Costco\\Form_Folder\\Employees.cs",
+              "ToolTip": "D:\\PUCIT\\Semester 4\\Projects\\Costco\\Costco\\Form_Folder\\Employees.cs [Design]",
+              "RelativeToolTip": "..\\Semester 4\\Projects\\Costco\\Costco\\Form_Folder\\Employees.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T10:49:51.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeImageForm.cs [Design]",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\EmployeeImageForm.cs",
+              "RelativeDocumentMoniker": "Costco\\Form_Folder\\EmployeeImageForm.cs",
+              "ToolTip": "D:\\PUCIT\\Semester 4\\Projects\\Costco\\Costco\\Form_Folder\\EmployeeImageForm.cs [Design]",
+              "RelativeToolTip": "..\\Semester 4\\Projects\\Costco\\Costco\\Form_Folder\\EmployeeImageForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:52:05.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "clients.cs [Design]",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\clients.cs",
+              "RelativeDocumentMoniker": "Costco\\Form_Folder\\clients.cs",
+              "ToolTip": "D:\\PUCIT\\Semester 4\\Projects\\Costco\\Costco\\Form_Folder\\clients.cs [Design]",
+              "RelativeToolTip": "..\\Semester 4\\Projects\\Costco\\Costco\\Form_Folder\\clients.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T16:28:58.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Orders.cs [Design]",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\Orders.cs",
+              "RelativeDocumentMoniker": "Costco\\Form_Folder\\Orders.cs",
+              "ToolTip": "D:\\PUCIT\\Semester 4\\Projects\\Costco\\Costco\\Form_Folder\\Orders.cs [Design]",
+              "RelativeToolTip": "..\\Semester 4\\Projects\\Costco\\Costco\\Form_Folder\\Orders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T23:38:24.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateForm.cs [Design]",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\UpdateForm.cs",
+              "RelativeDocumentMoniker": "Costco\\Form_Folder\\UpdateForm.cs",
+              "ToolTip": "D:\\PUCIT\\Semester 4\\Projects\\Costco\\Costco\\Form_Folder\\UpdateForm.cs [Design]",
+              "RelativeToolTip": "..\\Semester 4\\Projects\\Costco\\Costco\\Form_Folder\\UpdateForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T23:38:59.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\Orders.cs",
+              "RelativeDocumentMoniker": "Costco\\Form_Folder\\Orders.cs",
+              "ToolTip": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\Orders.cs",
+              "RelativeToolTip": "Costco\\Form_Folder\\Orders.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAIA9wC0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T02:26:18.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "clients.cs",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\clients.cs",
+              "RelativeDocumentMoniker": "Costco\\Form_Folder\\clients.cs",
+              "ToolTip": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\clients.cs",
+              "RelativeToolTip": "Costco\\Form_Folder\\clients.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAASwDIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T00:38:28.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Returns.Designer.cs",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\Returns.Designer.cs",
+              "RelativeDocumentMoniker": "Costco\\Form_Folder\\Returns.Designer.cs",
+              "ToolTip": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\Returns.Designer.cs",
+              "RelativeToolTip": "Costco\\Form_Folder\\Returns.Designer.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAArwKMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:06:13.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SuppliersForm.cs",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\SuppliersForm.cs",
+              "RelativeDocumentMoniker": "Costco\\Form_Folder\\SuppliersForm.cs",
+              "ToolTip": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\SuppliersForm.cs",
+              "RelativeToolTip": "Costco\\Form_Folder\\SuppliersForm.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAArwCkAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T16:20:47.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\UserControl1.cs",
+              "RelativeDocumentMoniker": "Costco\\UserControl1.cs",
+              "ToolTip": "D:\\PUCIT\\Semester 4\\Projects\\Costco\\Costco\\UserControl1.cs [Design]",
+              "RelativeToolTip": "..\\Semester 4\\Projects\\Costco\\Costco\\UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:34:16.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "returnsProducts.cs",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Data_Files\\returnsProducts.cs",
+              "RelativeDocumentMoniker": "Costco\\Data_Files\\returnsProducts.cs",
+              "ToolTip": "D:\\PUCIT\\Costco\\Costco\\Data_Files\\returnsProducts.cs",
+              "RelativeToolTip": "Costco\\Data_Files\\returnsProducts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:25:14.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "products.cs",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Data_Files\\products.cs",
+              "RelativeDocumentMoniker": "Costco\\Data_Files\\products.cs",
+              "ToolTip": "D:\\PUCIT\\Costco\\Costco\\Data_Files\\products.cs",
+              "RelativeToolTip": "Costco\\Data_Files\\products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:25:55.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\Inventory.cs",
+              "RelativeDocumentMoniker": "Costco\\Form_Folder\\Inventory.cs",
+              "ToolTip": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\Inventory.cs",
+              "RelativeToolTip": "Costco\\Form_Folder\\Inventory.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAA0wGYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T10:57:54.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddSupplier.cs",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\AddSupplier.cs",
+              "RelativeDocumentMoniker": "Costco\\Form_Folder\\AddSupplier.cs",
+              "ToolTip": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\AddSupplier.cs",
+              "RelativeToolTip": "Costco\\Form_Folder\\AddSupplier.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAUwD0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T01:29:12.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "addproduct.cs",
+              "DocumentMoniker": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\addproduct.cs",
+              "RelativeDocumentMoniker": "Costco\\Form_Folder\\addproduct.cs",
+              "ToolTip": "D:\\PUCIT\\Costco\\Costco\\Form_Folder\\addproduct.cs",
+              "RelativeToolTip": "Costco\\Form_Folder\\addproduct.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAjwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T02:18:20.674Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
